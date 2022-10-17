@@ -1,4 +1,6 @@
 # DESPLIEGUE DE APLICACIONES WEB
-## Documentación y control de versiones
-## Implantación de arquitecturas web
-## Administración de servidores web
+| Evaluacion | Tema |
+| ----------- | ----------- |
+| 1 | Documentación y control de versiones |
+| 1 | Implantación de arquitecturas web |
+| 1 | Administración de servidores web |
