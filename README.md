@@ -57,3 +57,7 @@
  7. Documenta todo y finaliza el ejercicio
  - En el fichero README.md crea una nueva sección en la que vayas documentando todo lo que vas realizando en esta tarea.
  ![alt text](fotos/19.png)
+ - Documenta todos los puntos en el README.md, haz un commit y sube los cambios al servidor 
+`$ git add .`
+`$ git commit -m "ejercicio 5"`
+  ![alt text](fotos/20.png)
